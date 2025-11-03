@@ -1,1 +1,0 @@
-# pr7-moduler-packager
